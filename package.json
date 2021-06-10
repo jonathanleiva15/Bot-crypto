@@ -1,0 +1,17 @@
+{
+  "name": "crypto-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/Cryptobot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "coingecko-api": "^1.0.10",
+    "discord.js": "^12.5.3",
+    "node-html-to-image": "^3.1.0",
+    "nodemon": "^2.0.7"
+  }
+}
